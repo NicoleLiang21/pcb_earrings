@@ -1,0 +1,3 @@
+## LED Current Calculation Evolution
+
+Initial design (v1) only considered the current passing through the red LED, and assigned the same resistor value to both the red and blue LEDs. Initial powering of the PCB revealed that the blue LEDs were much brighter than the red, and both colors of LEDs were too bright. After reviewing the LED datasheets, the resistor values were revised (v2) to reflect a more optimal operation point.
