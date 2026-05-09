@@ -71,3 +71,11 @@ These considerations ensure stable operation under battery-powered conditions.
 ### Bill of Materials (BOM)
 
 A full Bill of Materials is included in `hardware/media/exports/`.
+
+---
+
+### Media
+
+Additional photos, demonstrations, and project visuals are available on the project website:
+
+[Project Website](NicoleLiang21.github.io)
